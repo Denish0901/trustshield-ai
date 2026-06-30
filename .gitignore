@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+dist/
+*.db
+__pycache__/
+.env
+
+backend/app/uploads/
